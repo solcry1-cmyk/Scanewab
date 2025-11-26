@@ -386,7 +386,7 @@ if __name__ == "__main__":
 
 ### 1. **AI Autonomous SOC v2**
 - Penetapan prioritas insiden otomatis berbasis Machine Learning.
-- Analisis korelasi log seluruh sistem (Kubernetes, server fisik, CDN) secara real‑time.
+# Analisis korelasi log seluruh sistem (Kubernetes, server fisik, CDN) secara real‑time.
 - Anomali user behavior (UEBA) pasif.
 
 ### 2. **Predictive Incident Response Engine**
